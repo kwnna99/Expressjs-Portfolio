@@ -1,0 +1,7 @@
+extends layout.pug
+block content
+  div.error-message.box
+    h1.error-title= error.message
+    h2 Error status: #{error.status}
+    p=error.stack
+    a.btn-link.error(href=`/`) Back to the homepage

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "projects":[
+            {
+                "id":0,
+                "project_name":"Random Employee Directory",
+                "description":"The following project is a random employee directory, created using HTML, CSS and vanilla JS (no libraries). Upon being clicked, each user card triggers a popup with detailed information about the user. The employee/user data displayed are fetched via the Random User API.",
+                "technologies":["HTML","CSS","Javascript"],
+                "live_link":"https://kwnna99.github.io/Employee-directory/",
+                "github_link":"https://github.com/kwnna99/Employee-directory",
+                "image_urls":["/static/images/employee_directory_thumbnail.png","/static/images/employee_directory_main1.png"]
+            },
+            {
+                "id":1,
+                "project_name":"Interactive Registration Form",
+                "description":"In this project, I have created an interactive registration form for a FullStack conference. This project was created with HTML, CSS and Javascript.",
+                "technologies":["HTML","CSS","Javascript"],
+                "live_link":"https://kwnna99.github.io/Interactive-registration-form/",
+                "github_link":"https://github.com/kwnna99/Interactive-registration-form",
+                "image_urls":["/static/images/registration_form_thumbnail.png","/static/images/registration_form_main1.png"]
+            },
+            {
+                "id":2,
+                "project_name":"Student Directory",
+                "description":"In this project, I have created a student directory with pagination to accommodate for a larger volume of data. The project used CSS Grid, Vanilla JS and HTML.",
+                "technologies":["HTML","CSS","Javascript"],
+                "live_link":"https://kwnna99.github.io/Student-directory-with-pagination/",
+                "github_link":"https://github.com/kwnna99/Student-directory-with-pagination",
+                "image_urls":["/static/images/student_list_thumbnail.png","/static/images/student_list_main1.png"]
+            },
+            {
+                "id":3,
+                "project_name":"Word Guessing Game",
+                "description":"This is a web-based game using HTML, CSS and Javascript and guessing the phrase using the on-screen keyboard.",
+                "technologies":["HTML","CSS","Javascript"],
+                "live_link":"https://kwnna99.github.io/Word-Guessing-Game/",
+                "github_link":"https://github.com/kwnna99/Word-Guessing-Game",
+                "image_urls":["/static/images/word_guessing_thumbnail.png","/static/images/word_guessing_main1.png"]
+            },
+            {
+                "id":4,
+                "project_name":"Random Quote Generator",
+                "description":"A random quote generator using a fixed set of quotes and Vanilla JS.",
+                "technologies":["HTML","CSS","Javascript"],
+                "live_link":"https://github.com/kwnna99/Random-Quote-Generator",
+                "github_link":"https://kwnna99.github.io/Random-Quote-Generator/",
+                "image_urls":["/static/images/random_quotes_thumbnail.png","/static/images/random_quotes_main1.png"]
+            }
+        ]
+    }
+}
