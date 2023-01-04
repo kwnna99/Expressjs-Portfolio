@@ -1,10 +1,8 @@
 # Portfolio Website using ExpressJS
 This is a portfolio website, built with ExpressJS and Pug. 
-The portfolio includes a landing and about me page, as well as pages to showcase the most important projects I have worked on up until now. 
+The portfolio includes a landing and about me page, as well as pages to showcase some of the projects I have worked on.
 
-## Styling Changes
-Changed project's colors as follows:
-- Main text color: #0d0d0d
-- Main theme color (affecting the sidebar and buttons): #ef9273
-- Body background color: #fef9f8
-- Changed the transition effect to 0.3 seconds
+## How to use the project
+1. Run npm install to install the dependencies.
+2. Run npm start to start the project locally.
+3. The project will be running on localhost:3000
